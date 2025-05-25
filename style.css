@@ -1,0 +1,15 @@
+h1,h2,h3,h4 {
+                color: rgb(192, 181, 20);
+                font-size: 30px;
+            }
+            .important{
+                color: rgb(210, 237, 88);
+            }
+            #title{
+                background-color: rgb(255, 239, 220);
+            }
+            .uppercase{
+                text-transform: uppercase;
+                color: rgb(86, 86, 218);
+                background-color: darkseagreen;
+            }
